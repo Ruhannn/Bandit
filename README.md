@@ -120,3 +120,8 @@ tar xf data.tar
 ## Level 13
 
 **Password:** FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
+
+
+
+
+[website](https://overthewire.org/wargames/bandit/bandit14.html)
